@@ -1,38 +1,25 @@
-Shipping Logistics Calculator
-=============================
+# Shipping Logistics Calculator
 
-This project calculates shipping costs and estimated delivery times 
-based on distance and package weight.
+A Python-based tool to calculate shipping costs and estimated delivery times based on distance and package weight.
 
-Features
---------
-- Calculate cost based on distance and weight.
-- Estimate delivery time.
-- Easy-to-use Python script.
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 
-Getting Started
----------------
-1. Clone this repository:
-   git clone https://github.com/your-username/shipping-logistics-calculator.git
+---
 
-2. Navigate into the project folder:
-   cd shipping-logistics-calculator
+## Features
+- Calculate cost based on distance and weight
+- Estimate delivery time based on average speed
+- Simple CLI-based interaction
 
-3. Run the script:
-   python shipping_calculator.py
+---
 
-Requirements
-------------
-- Python 3.x installed on your system.
+## Getting Started
 
-Contributing
-------------
-Please read CONTRIBUTING.txt for details on how to contribute to this project.
+### Prerequisites
+- Python 3.x installed on your system
 
-Code of Conduct
----------------
-Please read CODE_OF_CONDUCT.txt for details on our community standards.
-
-License
--------
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+### Installation
+Clone the repository:
+```bash
+git clone https://github.com/Tharunkumar04/shipping-logistics-calculator.git
+cd shipping-logistics-calculator
